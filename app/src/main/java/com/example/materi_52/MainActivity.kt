@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
         titleTextView.text = "Apa Kartu itu?"
 
         // Mengatur deskripsi kartu
-        descriptionTextView.text = "Lembaran kecil yang terbuat dari bahan seperti kertas atau plastik yang digunakan untuk berbagai tujuan."
+        descriptionTextView.text = "Kartu ada yang remi, kartu domino, kartu uno, yugioh, dll."
 
         // Mengatur warna latar belakang kartu secara acak
         cardView.setCardBackgroundColor(getRandomColor())
